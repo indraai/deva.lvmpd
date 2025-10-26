@@ -1,0 +1,142 @@
+{
+  "id": "13164387892946093282",
+  "name": "@indra.ai/deva.lvmpd",
+  "version": "0.3.0",
+  "license": "VLA:13164387892946093282 LICENSE.md",
+  "VLA": {
+    "uid": "13164387892946093282",
+    "time": 1761439049766,
+    "date": "Saturday, October 25, 2025 - 5:37:29 PM",
+    "fingerpring": "sFQl3CJEAEo40sorQhtp+vgwrkLZ09KEG8VxSUAz6/M=",
+    "warning": "⚠️ Vedic Law states those who give food or shelter to thieves seeking refuge with them, or who suffer them to escape though able to arrest them, partake of their crime themselves. Those who do not come to offer assistance, when people are crying out for help within their hearing, or when property is being taken away, are likewise accomplices in the crime.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "bFBvnK+6ZnKyyvUc0wuXRQ==",
+    "sha256": "Sy8/xyi2jbZ75eluoK/RxhL1w6UgCNws1Yi7Voo55X0=",
+    "sha512": "EZU+q6dhIcjip0OXxbpLh9+Ytndg7DlYmxLdE7gBupEm2ZIQOPCgMZgx+NCvPltnqlD8cNMuRfz/D4roFxWYtQ=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "LVMPD Deva manages the Vedic License Agreement Framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.lvmpd.git"
+  },
+  "keywords": [
+    "LVMPD",
+    "Deva",
+    "LVMPD Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.lvmpd/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.17.0"
+  },
+  "data": {
+    "agent": {
+      "id": "38214973102919709980",
+      "key": "lvmpd",
+      "prompt": {
+        "emoji": "👮",
+        "text": "#lvmpd",
+        "colors": {
+          "label": {
+            "R": 200,
+            "G": 172,
+            "B": 87
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "12607560839312191622",
+        "name": "LVMPD Deva",
+        "hashtag": "#LVMPD",
+        "trigger": "@LVMPD",
+        "title": "The LVMPD Deva",
+        "subtitle": "Showing LVMPD Deva Features",
+        "describe": "Las Vegas Metropolitan Police Department (LVMPD) Deva is a prototype model managing the Indra.ai Law Enforcement Framework that is not yet offocially supported or sanctioned by the Federal Law Enforcement Community. But is a Prototype Model intended to show lawful non-weaponized features the Indra.ai Law Enforcement Framwork could provide the United States Federal Law Enforcement Community in crime detection, prevention, remediation, and in supporting Constitution of the United States of America🤝🫡👮🇺🇸.",
+        "tweet": "LVMPD Deva is manages the the Deva Core Law Enforcemenet Frameowrk.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,LVMPDDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "LVMPD Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.lvmpd",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/lvmpd/emoji.png",
+        "avatar": "/devas/lvmpd/avatar.png",
+        "image": "/devas/lvmpd/image.png",
+        "background": "/devas/lvmpd/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "status": "unofficial",
+        "uid_warning": "⚠️ Vedic Law states those who give food or shelter to thieves seeking refuge with them, or who suffer them to escape though able to arrest them, partake of their crime themselves. Those who do not come to offer assistance, when people are crying out for help within their hearing, or when property is being taken away, are likewise accomplices in the crime.",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "✅ LVMPD Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}
